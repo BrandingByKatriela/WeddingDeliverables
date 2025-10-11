@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Arneisha & Demetrius • Wedding Design Hub</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Simple in-page CSS (swap to assets/css/style.css if you prefer) -->
+  <style>
+    :root{
+      --bg: #F9F7F2;        /* eggshell */
+      --ink: #000000;       /* comic outlines */
+      --purple: #3C1E5E;    /* headings */
+      --pink: #F7C9D4;      /* accents */
+      --yellow: #FFD84D;    /* buttons / starbursts */
+      --gray: #6B6B6B;      /* captions */
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0; background:var(--bg); color:#333;
+      font-family: "Montserrat", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      line-height:1.6;
+    }
+    .container{max-width:1000px; margin:0 auto; padding:2rem 1rem;}
+    header{text-align:center; margin-bottom:2rem;}
+    h1{
+      font-family: "Bangers", Impact, sans-serif;
+      color:var(--purple); text-transform:uppercase; letter-spacing:1px; margin:0 0 .25rem;
+    }
+    .subtitle{
+      font-family: "Dancing Script", "Great Vibes", cursive;
+      color:var(--pink); font-size:1.1rem; margin:0;
+    }
+    .grid{
+      display:grid; gap:1.25rem;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+    .panel{
+      border:4px solid var(--ink);
+      background: radial-gradient(circle at 25% 0%, #fff 0%, #f7f7f7 100%);
+      padding:1rem; position:relative;
+      box-shadow: 6px 6px 0 var(--yellow);
+    }
+    .panel h2{
+      font-family: "Bangers", Impact, sans-serif;
+      color:var(--purple); margin:0 0 .5rem; font-size:1.25rem; text-transform:uppercase;
+    }
+    .item{
+      border:3px solid var(--ink); background:#fff; padding:.75rem; margin:.5rem 0;
+    }
+    .item-title{font-weight:700; margin:0 0 .25rem; display:flex; justify-content:space-between; align-items:center;}
+    .btn{
+      display:inline-block; background:var(--yellow); color:var(--ink);
+      padding:.35rem .6rem; border:3px solid var(--ink); font-weight:700; text-decoration:none;
+      transition:transform .15s ease, background .15s ease;
+    }
+    .btn:hover{transform:scale(1.03); background:var(--pink);}
+    .caption{color:var(--gray); font-size:.9rem; margin:.35rem 0 0;}
+    footer{margin-top:2rem; text-align:center; color:#444;}
+    .section{margin-top:2rem;}
+    /* Utility for media blocks */
+    .thumb{width:100%; aspect-ratio:16/9; background:#eee; border:3px dashed #bbb; display:flex; align-items:center; justify-content:center; color:#777; font-size:.95rem; margin:.5rem 0;}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Arneisha & Demetrius • Wedding Files</h1>
+      <p class="subtitle">Welcome to your wedding website — a place to share all the details, designs, and memories of our big day. </p>
+      <br>
+        <p class="subtitle">Here you’ll find invitations, signs, thank you cards, and more, all in one spot so you can view, download, and celebrate with us anytime.</p>
+    </header>
+
+    <!-- PRINT & GRAPHICS -->
+    <section class="grid">
+      <div class="panel">
+        <h2>Save the date</h2>
+        <div class="item">
+          <div class="item-title">
+            <span>Save The Date (PDF)</span>
+            <a class="btn" href="deliverables/print/save-the-date.pdf" download>Download</a>
+          </div>
+          <p class="caption">Print: 80–100lb glossy cover • CMYK • include 0.125" bleed.</p>
+        </div>
+        <div class="item">
+          <div class="item-title">
+            <span>Save The Date (Social PNG)</span>
+            <a class="btn" href="deliverables/digital/save-the-date.png" download>Download</a>
+          </div>
+          <p class="caption">Digital: 1080×1350 (portrait) • RGB • optimized for Instagram.</p>
+        </div>
+
+        <div class="item">
+          <div class="item-title">
+            <span>QR Code</span>
+            <a class="btn" href="deliverables/digital/qr-code.png" download>Download</a>
+          </div>
+          <p class="caption">Digital: 500x500 (square) • RGB </p>
+        </div>
+      </div>
+
+<div class="panel">
+        <h2>Official Invites</h2>
+        <div class="item">
+          <div class="item-title">
+            <span>Official Invites (5x7 PDF)</span>
+            <a class="btn" href="deliverables/print/wedding-invite.pdf" download>Download</a>
+          </div>
+          <p class="caption">Print: 80–100lb glossy cover • CMYK • include 0.125" bleed.</p>
+        </div>
+        <div class="item">
+          <div class="item-title">
+            <span>Web Invites (Web JPG)</span>
+            <a class="btn" href="deliverables/digital/web-invite.jpg" download>Download</a>
+          </div>
+          <p class="caption">Digital: 1920×1080 • RGB • use for website and email.</p>
+        </div>
+                <div class="item">
+          <div class="item-title">
+            <span>Social Media Announcements (Web JPG)</span>
+            <a class="btn" href="deliverables/digital/social-media-announcement.jpg" download>Download</a>
+          </div>
+          <p class="caption">Digital: 1920×1080 • RGB • use for website and email.</p>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>Welcome sign</h2>
+        <div class="item">
+          <div class="item-title">
+            <span>Welcome Sign (24×36 PDF)</span>
+            <a class="btn" href="deliverables/print/welcome-sign-24x36.pdf" download>Download</a>
+          </div>
+          <p class="caption">Print: 24×36 foam board • CMYK • 0.25" bleed • matte finish preferred.</p>
+        </div>
+        <div class="item">
+          <div class="item-title">
+            <span>Welcome Sign (Web JPG)</span>
+            <a class="btn" href="deliverables/digital/welcome-sign.jpg" download>Download</a>
+          </div>
+          <p class="caption">Digital: 1920×1080 • RGB • use for website and email.</p>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>Seating sign</h2>
+        <div class="item">
+          <div class="item-title">
+            <span>“Pick a seat, not a side” (18×24 PDF)</span>
+            <a class="btn" href="deliverables/print/seating-sign-18x24.pdf" download>Download</a>
+          </div>
+          <p class="caption">Print: 18×24 poster • CMYK • matte or satin • display on easel.</p>
+        </div>
+        <div class="item">
+          <div class="item-title">
+            <span>Seating Sign (Social PNG)</span>
+            <a class="btn" href="deliverables/digital/seating-sign.png" download>Download</a>
+          </div>
+          <p class="caption">Digital: 1080×1080 • RGB • share for guest info.</p>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>Thank you cards</h2>
+        <div class="item">
+          <div class="item-title">
+            <span>Thank You Card (A6 PDF)</span>
+            <a class="btn" href="deliverables/print/thank-you-a6.pdf" download>Download</a>
+          </div>
+          <p class="caption">Print: A6 (4.5×6.25) • CMYK • eggshell cardstock • blank inside.</p>
+        </div>
+        <div class="item">
+          <div class="item-title">
+            <span>Thank You (Social PNG)</span>
+            <a class="btn" href="deliverables/digital/thank-you-card.png" download>Download</a>
+          </div>
+          <p class="caption">Digital: 1200×628 • RGB • ideal for posts and emails.</p>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>Table toppers</h2>
+        <div class="item">
+          <div class="item-title">
+            <span>Table Toppers (5×7 ZIP)</span>
+            <a class="btn" href="deliverables/print/table-toppers.zip" download>Download</a>
+          </div>
+          <p class="caption">Print: 5×7 • CMYK • eggshell cardstock • front/back included.</p>
+        </div>
+        <div class="item">
+          <div class="item-title">
+            <span>Back Side (Bright Comic JPG)</span>
+            <a class="btn" href="deliverables/print/table-topper-back.jpg" download>Download</a>
+          </div>
+          <p class="caption">Use as reverse side for bouquets • match halftone orientation.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- MEDIA -->
+    <section class="section grid">
+      <div class="panel">
+        <h2>Video</h2>
+        <div class="thumb">Video preview (optional embed)</div>
+        <div class="item">
+          <div class="item-title">
+            <span>Highlight Reel (MP4)</span>
+            <a class="btn" href="deliverables/media/highlight-reel.mp4" download>Download</a>
+          </div>
+          <p class="caption">1080p • H.264 • include captions if sharing publicly.</p>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>Photos</h2>
+        <div class="thumb">Gallery preview (optional grid)</div>
+        <div class="item">
+          <div class="item-title">
+            <span>Photo Set (ZIP)</span>
+            <a class="btn" href="deliverables/media/photos.zip" download>Download</a>
+          </div>
+          <p class="caption">High‑res JPGs • sRGB • include a smaller web set if needed.</p>
+        </div>
+      </div>
+
+
+      
+      <div class="panel">
+        <h2>Printing, download & distribution guide</h2>
+        <div class="item">
+          <div class="item-title">
+            <span>Instructions (PDF)</span>
+            <a class="btn" href="deliverables/print/printing-guide.pdf" download>Download</a>
+          </div>
+          <p class="caption">Paper weights, finishes, bleeds, color modes, and vendor tips.</p>
+        </div>
+        <div class="item">
+          <div class="item-title">
+            <span>All Files (Master ZIP)</span>
+            <a class="btn" href="deliverables/all-files.zip" download>Download</a>
+          </div>
+          <p class="caption">One‑click archive of all deliverables & source files.</p>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p>⭐ Designed with love in dainty comic‑book style • For support, reply to your delivery email ⭐</p>
+    </footer>
+  </div>
+</body>
+</html>
