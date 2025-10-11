@@ -77,14 +77,14 @@
         <div class="item">
           <div class="item-title">
             <span>Save The Date (PDF)</span>
-            <a class="btn" href="deliverables/print/save-the-date.pdf" download>Download</a>
+            <a class="btn" href="save-the-date.pdf" download>Download</a>
           </div>
           <p class="caption">Print: 80–100lb glossy cover • CMYK • include 0.125" bleed.</p>
         </div>
         <div class="item">
           <div class="item-title">
             <span>Save The Date (Social PNG)</span>
-            <a class="btn" href="deliverables/digital/save-the-date.png" download>Download</a>
+            <a class="btn" href="save-the-date.png" download>Download</a>
           </div>
           <p class="caption">Digital: 1080×1350 (portrait) • RGB • optimized for Instagram.</p>
         </div>
@@ -92,7 +92,7 @@
         <div class="item">
           <div class="item-title">
             <span>QR Code</span>
-            <a class="btn" href="deliverables/digital/qr-code.png" download>Download</a>
+            <a class="btn" href="qr-code.png" download>Download</a>
           </div>
           <p class="caption">Digital: 500x500 (square) • RGB </p>
         </div>
@@ -103,21 +103,21 @@
         <div class="item">
           <div class="item-title">
             <span>Official Invites (5x7 PDF)</span>
-            <a class="btn" href="deliverables/print/wedding-invite.pdf" download>Download</a>
+            <a class="btn" href="wedding-invite.pdf" download>Download</a>
           </div>
           <p class="caption">Print: 80–100lb glossy cover • CMYK • include 0.125" bleed.</p>
         </div>
         <div class="item">
           <div class="item-title">
             <span>Web Invites (Web JPG)</span>
-            <a class="btn" href="deliverables/digital/web-invite.jpg" download>Download</a>
+            <a class="btn" href="web-invite.jpg" download>Download</a>
           </div>
           <p class="caption">Digital: 1920×1080 • RGB • use for website and email.</p>
         </div>
                 <div class="item">
           <div class="item-title">
             <span>Social Media Announcements (Web JPG)</span>
-            <a class="btn" href="deliverables/digital/social-media-announcement.jpg" download>Download</a>
+            <a class="btn" href="social-media-announcement.jpg" download>Download</a>
           </div>
           <p class="caption">Digital: 1920×1080 • RGB • use for website and email.</p>
         </div>
@@ -128,14 +128,14 @@
         <div class="item">
           <div class="item-title">
             <span>Welcome Sign (24×36 PDF)</span>
-            <a class="btn" href="deliverables/print/welcome-sign-24x36.pdf" download>Download</a>
+            <a class="btn" href="welcome-sign.pdf" download>Download</a>
           </div>
           <p class="caption">Print: 24×36 foam board • CMYK • 0.25" bleed • matte finish preferred.</p>
         </div>
         <div class="item">
           <div class="item-title">
             <span>Welcome Sign (Web JPG)</span>
-            <a class="btn" href="deliverables/digital/welcome-sign.jpg" download>Download</a>
+            <a class="btn" href="welcome-sign.jpg" download>Download</a>
           </div>
           <p class="caption">Digital: 1920×1080 • RGB • use for website and email.</p>
         </div>
@@ -146,14 +146,14 @@
         <div class="item">
           <div class="item-title">
             <span>“Pick a seat, not a side” (18×24 PDF)</span>
-            <a class="btn" href="deliverables/print/seating-sign-18x24.pdf" download>Download</a>
+            <a class="btn" href="seating-sign.pdf" download>Download</a>
           </div>
           <p class="caption">Print: 18×24 poster • CMYK • matte or satin • display on easel.</p>
         </div>
         <div class="item">
           <div class="item-title">
             <span>Seating Sign (Social PNG)</span>
-            <a class="btn" href="deliverables/digital/seating-sign.png" download>Download</a>
+            <a class="btn" href="seating-sign.png" download>Download</a>
           </div>
           <p class="caption">Digital: 1080×1080 • RGB • share for guest info.</p>
         </div>
@@ -164,14 +164,14 @@
         <div class="item">
           <div class="item-title">
             <span>Thank You Card (A6 PDF)</span>
-            <a class="btn" href="deliverables/print/thank-you-a6.pdf" download>Download</a>
+            <a class="btn" href="thank-you-card.pdf" download>Download</a>
           </div>
           <p class="caption">Print: A6 (4.5×6.25) • CMYK • eggshell cardstock • blank inside.</p>
         </div>
         <div class="item">
           <div class="item-title">
             <span>Thank You (Social PNG)</span>
-            <a class="btn" href="deliverables/digital/thank-you-card.png" download>Download</a>
+            <a class="btn" href="thank-you-card.png" download>Download</a>
           </div>
           <p class="caption">Digital: 1200×628 • RGB • ideal for posts and emails.</p>
         </div>
@@ -182,14 +182,14 @@
         <div class="item">
           <div class="item-title">
             <span>Table Toppers (5×7 ZIP)</span>
-            <a class="btn" href="deliverables/print/table-toppers.zip" download>Download</a>
+            <a class="btn" href="table-toppers.zip" download>Download</a>
           </div>
           <p class="caption">Print: 5×7 • CMYK • eggshell cardstock • front/back included.</p>
         </div>
         <div class="item">
           <div class="item-title">
             <span>Back Side (Bright Comic JPG)</span>
-            <a class="btn" href="deliverables/print/table-topper-back.jpg" download>Download</a>
+            <a class="btn" href="table-topper-back.jpg" download>Download</a>
           </div>
           <p class="caption">Use as reverse side for bouquets • match halftone orientation.</p>
         </div>
@@ -204,7 +204,7 @@
         <div class="item">
           <div class="item-title">
             <span>Highlight Reel (MP4)</span>
-            <a class="btn" href="deliverables/media/highlight-reel.mp4" download>Download</a>
+            <a class="btn" href="highlight-reel.mp4" download>Download</a>
           </div>
           <p class="caption">1080p • H.264 • include captions if sharing publicly.</p>
         </div>
@@ -216,7 +216,7 @@
         <div class="item">
           <div class="item-title">
             <span>Photo Set (ZIP)</span>
-            <a class="btn" href="deliverables/media/photos.zip" download>Download</a>
+            <a class="btn" href="photos.zip" download>Download</a>
           </div>
           <p class="caption">High‑res JPGs • sRGB • include a smaller web set if needed.</p>
         </div>
@@ -229,14 +229,14 @@
         <div class="item">
           <div class="item-title">
             <span>Instructions (PDF)</span>
-            <a class="btn" href="deliverables/print/printing-guide.pdf" download>Download</a>
+            <a class="btn" href="printing-guide.pdf" download>Download</a>
           </div>
           <p class="caption">Paper weights, finishes, bleeds, color modes, and vendor tips.</p>
         </div>
         <div class="item">
           <div class="item-title">
             <span>All Files (Master ZIP)</span>
-            <a class="btn" href="deliverables/all-files.zip" download>Download</a>
+            <a class="btn" href="all-files.zip" download>Download</a>
           </div>
           <p class="caption">One‑click archive of all deliverables & source files.</p>
         </div>
