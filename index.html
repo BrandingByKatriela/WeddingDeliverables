@@ -12,6 +12,7 @@
       --purple: #3C1E5E;    /* headings */
       --pink: #F7C9D4;      /* accents */
       --yellow: #FFD84D;    /* buttons / starbursts */
+      --altyellow: #FFD300;    /* alt button */
       --gray: #6B6B6B;      /* captions */
     }
     *{box-sizing:border-box}
@@ -53,6 +54,11 @@
       padding:.35rem .6rem; border:3px solid var(--ink); font-weight:700; text-decoration:none;
       transition:transform .15s ease, background .15s ease;
     }
+     .altbtn{
+      display:inline-block; background:var(--altyellow); color:var(--ink);
+      padding:.35rem .6rem; border:3px solid var(--ink); font-weight:700; text-decoration:none;
+      transition:transform .15s ease, background .15s ease;
+    }
     .btn:hover{transform:scale(1.03); background:var(--pink);}
     .caption{color:var(--gray); font-size:.9rem; margin:.35rem 0 0;}
     footer{margin-top:2rem; text-align:center; color:#444;}
@@ -61,6 +67,11 @@
     .thumb{width:100%; aspect-ratio:16/9; background:#eee; border:3px dashed #bbb; display:flex; align-items:center; justify-content:center; color:#777; font-size:.95rem; margin:.5rem 0;}
   </style>
 </head>
+
+
+
+
+  
 <body>
   <div class="container">
     <header>
@@ -92,7 +103,7 @@
         <div class="item">
           <div class="item-title">
             <span>QR Code</span>
-            <a class="btn" href="qr-code.png" download>Download</a>
+            <a class="altbtn" href="qr-code.png" download>Download</a>
           </div>
           <p class="caption">Digital: 2250x2250 (square) • RGB </p>
         </div>
